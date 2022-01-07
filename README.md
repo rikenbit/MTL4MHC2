@@ -3,8 +3,8 @@
 ---
 
 
-# Dataset
-<br>
+# Dataset 
+ 
 ### We used the MHC class I/II datasets curated by Gopalakrishnan Ven-katesh et al. [(Venkatesh et al., 2020)](https://github.com/gopuvenkat/MHCAttnNet) for deep learning model investiga-tion. Splited data, which was used for evaluation, is available from [here]().
 <br>
 
@@ -12,13 +12,12 @@
 
 ---
 
-# model and weight
-<br>
-
-### Downsampling test models are available from [here]().
-<br>
+# Model and Weight 
+ 
+### Downsampling test models are available from [here](). 
+ 
 ### Bi-LSTM model, Multi-head Bi-LSTM model, Multi-task Bi-LSTM model are available from [here]().
-<br>
+ 
 
 ---
 
