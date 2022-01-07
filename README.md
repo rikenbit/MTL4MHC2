@@ -6,8 +6,7 @@
 # Dataset 
  
 #### We used the MHC class I/II datasets curated by Gopalakrishnan Ven-katesh et al. [(Venkatesh et al., 2020)](https://github.com/gopuvenkat/MHCAttnNet) for deep learning model investiga-tion. Splited data, which was used for evaluation, is available from [here]().
-<br>
-
+ 
 #### Class II MHC dataset by HLA subclass: For model evaluations, we used the MHC class II dataset, which was collected from the IEDB (Sahin et al., 2017) (as of 2021). This dataset contains 131060 classical MHC gene alleles. We labeled binding infor-mation with IC50 values of <1000 nM. This dataset is uvailable from [here]().
 
 ---
