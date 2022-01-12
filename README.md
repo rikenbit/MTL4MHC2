@@ -22,7 +22,7 @@
 
 # Script 
 
-#### We open our model screening  scripts and main model creation scripts respectively. [here]() 
+#### We open our model screening  scripts and main model creation scripts respectively. [here](https://github.com/rikenbit/MTL4MHC2/tree/main/script) 
 
 
 ---
