@@ -28,11 +28,11 @@ We open our model screening  scripts and main model creation scripts respectivel
 # Evaluation data 
 We open our evaluation results as the jupyter notebook file. [here](https://github.com/rikenbit/MTL4MHC2/tree/main/evaluation_result) 
 
-MTL4MHC2_model_evaluation_1.ipynb : The evaluation result of dataset1. 
+**MTL4MHC2_model_evaluation_1.ipynb :** The evaluation result of dataset1. 
 
-MTL4MHC2_evaluation2_prediction.ipynb : The prediction script of dataset2. 
+**MTL4MHC2_evaluation2_prediction.ipynb :** The prediction script of dataset2. 
 
-MTL4MHC2_evaluation2_result.ipynb : The evaluation result of dataset2. 
+**MTL4MHC2_evaluation2_result.ipynb :** The evaluation result of dataset2. 
 
 
 
