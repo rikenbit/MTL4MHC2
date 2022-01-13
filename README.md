@@ -32,7 +32,7 @@ We open our evaluation results as the jupyter notebook file. [here](https://gith
 
 **MTL4MHC2_evaluation2_prediction.ipynb :** The prediction script of dataset2. 
 
-**MTL4MHC2_evaluation2_result.ipynb :** The evaluation result of dataset2. 
+MTL4MHC2_evaluation2_result.ipynb : The evaluation result of dataset2. 
 
 
 
